@@ -1,0 +1,4 @@
+repository "胡闹厨房@lxkaifa@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
